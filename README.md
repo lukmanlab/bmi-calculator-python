@@ -7,9 +7,9 @@ bmi = kg/m^2
 ```
 
 ## Method-1: Run this Program in Localhost
-First, you must install some of library in `requirement.txt` using `python-pip`:
+First, you must install some of library in `requirements.txt` using `python-pip`:
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 Then, run:
 ```
